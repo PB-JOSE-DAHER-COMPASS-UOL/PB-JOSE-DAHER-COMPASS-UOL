@@ -1,6 +1,7 @@
 #-🌱 Apresentação
 
-## - ! https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGENIEERING/blob/2a2608e519a232ecd6a977c723cd0c6fcac8e414/foto.jpg
+## - ![Minha Foto](https://raw.githubusercontent.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGENIEERING/main/foto.jpg)
+
 
 ##- 👋 Olá, eu sou José Tadeu Daher!
 
