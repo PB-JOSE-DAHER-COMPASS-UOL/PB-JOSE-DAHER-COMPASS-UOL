@@ -1,7 +1,6 @@
 #-🌱 Apresentação
 
-## - ! Minha Foto foto.jpg
-
+## - ! Minha Foto !foto.jpg
 
 ##- 👋 Olá, eu sou José Tadeu Daher!
 
