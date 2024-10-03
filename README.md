@@ -1,6 +1,6 @@
 #-🌱 Apresentação
 
-![Minha Foto](caminho/para/sua/foto.jpg)
+!foto.jpg
 
 ##- 👋 Olá, eu sou José Tadeu Daher!
 
