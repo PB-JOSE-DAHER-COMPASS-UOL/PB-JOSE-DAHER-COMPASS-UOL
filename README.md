@@ -4,7 +4,7 @@
 
 ##- 👋 Olá, eu sou José Tadeu Daher!
 
-Sou da capital de São Paulo, e atualmente estou cursando Tecnologia da Informação na Universidade Virtual do Estado de São Paulo. É uma universidade pública. Estou no início do 3º ano. Tenho experiência em/conhecimento em [suas experiências ou habilidades].
+Sou da capital de São Paulo, e atualmente estou cursando Tecnologia da Informação na Universidade Virtual do Estado de São Paulo. É uma universidade pública. Estou no início do 3º ano. Tenho experiência em UX Designer, Front End e tenho Certificação de AWS Cloud Practitioner - C\lF -C02
 
 ##- 👀 Sobre Mim
 
@@ -21,15 +21,15 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 ##- ⚡ Projetos Recentes
 
-1.  **[Sprint # 1]:** Descrição do projeto e tecnologias utilizadas.
-2.  **[Sprint # 2]:** Descrição do projeto e tecnologias utilizadas.
-3.  **[Sprint # 3]:** Descrição do projeto e tecnologias utilizadas.
-4.  **[Sprint # 4]:** Descrição do projeto e tecnologias utilizadas.
-5.  **[Sprint # 5]:** Descrição do projeto e tecnologias utilizadas.
-6.  **[Sprint # 6]:** Descrição do projeto e tecnologias utilizadas.
-7.  **[Sprint # 7]:** Descrição do projeto e tecnologias utilizadas.
-8.  **[Sprint # 8]:** Descrição do projeto e tecnologias utilizadas.
-9.  **[Sprint # 9]:** Descrição do projeto e tecnologias utilizadas.
-10. **[Sprint # 10]:** Descrição do projeto e tecnologias utilizadas.
+1.  **[Sprint # 1]:** Descrição do projeto e tecnologias utilizadas # Linux.
+2.  **[Sprint # 2]:** Descrição do projeto e tecnologias utilizadas # SGBDs.
+3.  **[Sprint # 3]:** Descrição do projeto e tecnologias utilizadas # Python.
+4.  **[Sprint # 4]:** Descrição do projeto e tecnologias utilizadas # Docker & Kubernetes.
+5.  **[Sprint # 5]:** Descrição do projeto e tecnologias utilizadas # AWS Cloud.
+6.  **[Sprint # 6]:** Descrição do projeto e tecnologias utilizadas # AWS Analytics.
+7.  **[Sprint # 7]:** Descrição do projeto e tecnologias utilizadas # Apache Spark.
+8.  **[Sprint # 8]:** Descrição do projeto e tecnologias utilizadas # AWS e Apache Spark.
+9.  **[Sprint # 9]:** Descrição do projeto e tecnologias utilizadas # Data Structure
+10. **[Sprint # 10]:** Descrição do projeto e tecnologias utilizadas# Data Lake.
 
 ##- ✨Obrigado por visitar o meu perfil!
