@@ -35,3 +35,5 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 10. **[Sprint # 10]:** Descrição do projeto e tecnologias utilizadas# Data Lake.
 
 ##- ✨Obrigado por visitar o meu perfil!
+
+![Snake animation] (https://github.com/PB-JOSE-DAHER-COMPASS-UOL)
