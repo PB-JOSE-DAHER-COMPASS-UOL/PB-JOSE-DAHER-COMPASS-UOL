@@ -18,7 +18,7 @@ Tenho paixão pelo aprendizado contínuo (lifelong learning) e minha determinaç
 
 ##- 💞️ Interesses e Hobbies
 
-Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros e assistir filmes no streaming. Mas a minha verdadeira paixão são as novas tecnologias digitais, principalmente as disruptivas. E estou sempre buscando aprender mais conhecimentos.
+Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros e assistir filmes no streaming. Mas a minha verdadeira paixão são as novas tecnologias digitais, principalmente as disruptivas. E estou sempre buscando aprender e ter mais conhecimentos.
 
 ##- ⚡ Projetos Recentes
 
