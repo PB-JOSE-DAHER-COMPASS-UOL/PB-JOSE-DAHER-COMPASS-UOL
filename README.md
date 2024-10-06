@@ -36,4 +36,4 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 ##- ✨Obrigado por visitar o meu perfil!
 
-![Snake animation] (https://github.com/PB-JOSE-DAHER-COMPASS-UOL/PB-JOSE-DAHER-COMPASS-UOL/blob/output/github-contribution-grid.svg)
+![Snake animation] (https://github.com/PB-JOSE-DAHER-COMPASS-UOL/PB-JOSE-DAHER-COMPASS-UOL/blob/output/github-contribution-grid-snake.svg)
