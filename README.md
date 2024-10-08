@@ -39,13 +39,13 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&bg_color=00000000)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?PB-JOSE-DAHER-COMPASS-UOL=PB-JOSE-DAHER-COMPASS-UOL&repo=PB-JOSE-DAHER-COMPASS-UOL&theme=react)]9https://github.com/PB-JOSE-DAHER-COMPASS-UOL/PB-JOSE-DAHER-COMPASS-UOL
+
 <div>
     <a href="https://github.com/PB-JOSE-DAHER-COMPASS-UOL">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&layout=compact&langs_count=7&theme=react" />
 
 ![Snake_animation](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/PB-JOSE-DAHER-COMPASS-UOL/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?PB-JOSE-DAHER-COMPASS-UOL=PB-JOSE-DAHER-COMPASS-UOL&repo=PB-JOSE-DAHER-COMPASS-UOL&theme=react)]9https://github.com/PB-JOSE-DAHER-COMPASS-UOL/PB-JOSE-DAHER-COMPASS-UOL
 
 </div>
