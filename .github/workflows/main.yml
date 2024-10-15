@@ -10,7 +10,7 @@ on:
     - cron: "0 0 * * *"
 
 permissions:
-  contents: write  # Garante que o workflow pode fazer push de commits
+  contents: write  # Permite ao workflow escrever no repositório
 
 jobs:
   build:
@@ -30,7 +30,7 @@ jobs:
       # Adiciona a cobrinha gerada ao repositório
       - name: Commit and Push Snake
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Usa o token do GitHub Actions para autenticar o push
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Usa o GitHub token para autenticação
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
