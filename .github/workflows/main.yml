@@ -9,6 +9,9 @@ on:
   schedule:
     - cron: "0 0 * * *"
 
+permissions:
+  contents: write  # Garante que o workflow pode fazer push de commits
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -16,16 +19,18 @@ jobs:
     steps:
       # Verifica o repositório
       - name: Checkout repository
-        uses: actions/checkout@v3  # Esta é a versão mais recente
+        uses: actions/checkout@v3
 
       # Baixa e executa o script da cobrinha
       - name: Generate Snake Animation
-        uses: Platane/snk@v3.0.0  # Certifique-se de usar a versão mais recente
+        uses: Platane/snk@v3.0.0
         with:
           github_user_name: ${{ github.repository_owner }}
 
       # Adiciona a cobrinha gerada ao repositório
       - name: Commit and Push Snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Usa o token do GitHub Actions para autenticar o push
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
