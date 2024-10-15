@@ -4,7 +4,7 @@ on:
   # Executa o workflow sempre que um commit é feito no repositório
   push:
     branches:
-    - main
+      - main
   # Agendado para rodar uma vez por dia
   schedule:
     - cron: "0 0 * * *"
@@ -16,14 +16,13 @@ jobs:
     steps:
       # Verifica o repositório
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Atualizando para a versão v3
 
       # Baixa e executa o script da cobrinha
       - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_only: true
 
       # Adiciona a cobrinha gerada ao repositório
       - name: Commit and Push Snake
