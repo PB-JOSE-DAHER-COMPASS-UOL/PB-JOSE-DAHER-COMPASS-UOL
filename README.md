@@ -23,20 +23,21 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 ##- ⚡ Projetos Recentes
 
-1.  **[Sprint # 1]:** Descrição do projeto e tecnologias utilizadas # Linux.
-2.  **[Sprint # 2]:** Descrição do projeto e tecnologias utilizadas # SGBDs.
-3.  **[Sprint # 3]:** Descrição do projeto e tecnologias utilizadas # Python.
-4.  **[Sprint # 4]:** Descrição do projeto e tecnologias utilizadas # Docker & Kubernetes.
-5.  **[Sprint # 5]:** Descrição do projeto e tecnologias utilizadas # AWS Cloud.
-6.  **[Sprint # 6]:** Descrição do projeto e tecnologias utilizadas # AWS Analytics.
-7.  **[Sprint # 7]:** Descrição do projeto e tecnologias utilizadas # Apache Spark.
-8.  **[Sprint # 8]:** Descrição do projeto e tecnologias utilizadas # AWS e Apache Spark.
-9.  **[Sprint # 9]:** Descrição do projeto e tecnologias utilizadas # Data Structure
-10. **[Sprint # 10]:** Descrição do projeto e tecnologias utilizadas# Data Lake.
+
+1.  **[Sprint # 1](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%201):** Descrição do projeto e tecnologias utilizadas # Linux.
+2.  **[Sprint # 2](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%202):** Descrição do projeto e tecnologias utilizadas # SGBDs.
+3.  **[Sprint # 3](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%203):** Descrição do projeto e tecnologias utilizadas # Python.
+4.  **[Sprint # 4](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%204):** Descrição do projeto e tecnologias utilizadas # Docker & Kubernetes.
+5.  **[Sprint # 5](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%205):** Descrição do projeto e tecnologias utilizadas # AWS Cloud.
+6.  **[Sprint # 6](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%206):** Descrição do projeto e tecnologias utilizadas # AWS Analytics.
+7.  **[Sprint # 7](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%207):** Descrição do projeto e tecnologias utilizadas # Apache Spark.
+8.  **[Sprint # 8](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%208):** Descrição do projeto e tecnologias utilizadas # AWS e Apache Spark.
+9.  **[Sprint # 9](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%209):** Descrição do projeto e tecnologias utilizadas # Data Structure.
+10. **[Sprint # 10](https://github.com/PB-JOSE-DAHER-COMPASS-UOL/SPRINTS_PB_AWS_CLOUD_DATA_ENGINEERING/tree/main/Sprint%2010):** Descrição do projeto e tecnologias utilizadas # Data Lake.
+
 
 ##- ✨Obrigado por visitar o meu perfil!
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&bg_color=00000000)
 
 
