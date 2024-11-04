@@ -40,9 +40,9 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 <div>
   <div>
-  <a href="https://github.com/SEU_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=16&theme=dracula"/>
+  <a href="https://github.com/PB-JOSE-DAHER-COMPASS-UOL"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
 
