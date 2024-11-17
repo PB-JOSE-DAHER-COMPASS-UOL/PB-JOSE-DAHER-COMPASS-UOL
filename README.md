@@ -40,10 +40,23 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 <div>
   <div>
-  <a href="https://github.com/PB-JOSE-DAHER-COMPASS-UOL"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&layout=compact&langs_count=16&theme=cobalt"/>
-  </a>
+   <p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+<img
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+
+</p>
    
 </div>
 
@@ -75,21 +88,11 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 ### 📊 Estatísticas
 ###
 
- <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
 
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</p>
-
+ <div>
+  <a href="https://github.com/PB-JOSE-DAHER-COMPASS-UOL"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&layout=compact&langs_count=16&theme=cobalt"/>
+  </a>
+   
+</div>
