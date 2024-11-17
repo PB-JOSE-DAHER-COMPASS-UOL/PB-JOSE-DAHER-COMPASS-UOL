@@ -46,23 +46,7 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
   </a>
    
 </div>
- <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
 
-<img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-
-</p>
 
 <h2 align="left">I code with</h2>
 
@@ -90,47 +74,22 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
 
 ### 📊 Estatísticas
 ###
-<a href="https://github.com/PB-JOSE-DAHER-COMPASS-UOL"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&layout=compact&langs_count=16&theme=cobalt" alt="Top Langs"/>
-</a>
 
----
-
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="200"
-  style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+ <p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
 
 <img
-  align="left"
-  alt="Top Languages"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 
----
-
-<h2 align="left">I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="SQLAlchemy logo" />
-</div>
+</p>
 
