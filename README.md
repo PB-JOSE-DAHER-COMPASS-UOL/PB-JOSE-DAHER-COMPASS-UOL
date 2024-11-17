@@ -44,7 +44,9 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PB-JOSE-DAHER-COMPASS-UOL&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PB-JOSE-DAHER-COMPASS-UOL&layout=compact&langs_count=16&theme=cobalt"/>
   </a>
-    <p>
+   
+</div>
+ <p>
   <img
     align="left"
     alt="GitHub Stats"
@@ -61,8 +63,6 @@ Gosto de animais, tenho 2 cachorros que são meus filhos. Adoro ler bons livros 
   />
 
 </p>
-
-</div>
 
 <h2 align="left">I code with</h2>
 
