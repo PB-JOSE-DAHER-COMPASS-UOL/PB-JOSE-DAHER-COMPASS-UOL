@@ -10,7 +10,7 @@ Sou da capital de São Paulo, e atualmente estou cursando Tecnologia da Informa�
 
 ##- 👀 Sobre Mim
 
-- **Idade:** 59 anos
+- **Idade:** 60 anos
 - **Contato:** jose.daher.pb@compasso.com.br
 - **LinkedIn:** www.linkedin.com/in/josé-tadeu-daher-softwaredeveloper
 - **Bio:** Estagiário em Data Engineering na Compass UOL, com experiência em projetos de automação, análise de dados e desenvolvimento de software.
