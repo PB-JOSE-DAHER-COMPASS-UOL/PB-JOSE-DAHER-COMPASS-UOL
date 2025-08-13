@@ -6,8 +6,8 @@
 ##- 👋 Olá, eu sou José Tadeu Daher!
 
 
-Sou da capital de São Paulo, e atualmente estou cursando Tecnologia da Informação na Universidade Virtual do Estado de São Paulo. É uma universidade pública. Estou no início do 3º ano. Tenho experiência em UX Designer, Front End e tenho Certificação de AWS Cloud Practitioner - CLF -C02
-
+Sou da capital de São Paulo, e conclui em agosto o bacharelado em Tecnologia da Informação na Universidade Virtual do Estado de São Paulo. É uma universidade pública. Estou no início do 3º ano. Tenho experiência em UX Designer, Front End e tenho Certificação de AWS Cloud Practitioner - CLF -C02
+ o
 ##- 👀 Sobre Mim
 
 - **Idade:** 60 anos
